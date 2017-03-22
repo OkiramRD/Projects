@@ -1,0 +1,68 @@
+a#logo-okiram /* Dans l'entête. Attention, ruban-beta+logo d'Okiram */
+{
+ 	background-image: url(image/beta+logo.png);
+ 	background-repeat: no-repeat;
+ 	background-size: 100%;
+ 	width: 210px;
+ 	height: 64px;
+ 	margin-bottom: -250px;
+}
+
+div#titre-page
+{
+	background-image: url(image/board-1709188_19201.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	width: auto;
+	height: auto;
+}
+
+
+.reseaux-sociaux
+{
+	text-align: none;
+}
+
+#liste-contacts
+{
+	list-style: none;
+	padding-right: 35px;
+}
+
+#logo-twitter /* footer */
+{
+	background-image: url(image/logo-twitter.png);
+ 	background-repeat: no-repeat;
+	background-size: 100%;
+ 	width: 150px;
+ 	height: 150px;
+  	color: rgba(0, 0, 0, 0);
+}
+
+#logo-facebook /* footer */
+{
+ 	background-image: url(image/logo-fb.png);
+  	background-repeat: no-repeat;
+ 	background-size: 100%;
+ 	width: 150px;
+ 	height: 150px;
+  	color: rgba(0, 0, 0, 0);
+}
+
+#logo-linkedin /* footer */
+{
+ 	background-image: url(image/logo-linkedin.png);
+  	background-repeat: no-repeat;
+ 	background-size: 100%;
+ 	width: 60px;
+ 	height: 60px;
+ 	color: rgba(0, 0, 0, 0);
+}
+
+
+footer
+{
+	list-style: none;
+}
+
